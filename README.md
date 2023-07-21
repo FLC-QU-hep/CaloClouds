@@ -23,3 +23,7 @@ The training dataset is currently not public. If you're interested in receiveing
 ---
 
 The code for training the diffusion probabilistic model is based on: https://github.com/luost26/diffusion-point-cloud
+
+---
+
+The Dataset is available under the current link: https://syncandshare.desy.de/index.php/s/XfDwx33ryERwPdi
